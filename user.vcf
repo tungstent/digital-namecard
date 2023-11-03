@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
+N:Trevor;Tung;;;
+FN: Trevor Tung 
+ORG:Singtel;
+TITLE:Senior Manager\nActive Directory Services, TI Workplace Technology
+EMAIL;type=INTERNET;type=WORK;type=pref:trevor.tung@singtel.com
 TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+item1.ADR;type=WORK;type=pref:;;31 Exeter Road, Comcentre\nAtrium\, #03-00;;;Singapore;239732
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:singtel.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
